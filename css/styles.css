@@ -93,6 +93,7 @@ position: relative;
     background-color: #404BBF;
     width: 100%;
     height: 4px;
+    border-radius: 2px;
     bottom: 0;
 
   }
@@ -618,7 +619,7 @@ color: #FFFFFF;
 height: 100%;
 background-color: rgba(46, 47, 66, 0.4);
 transition-property: opacity, visibility;
-transition-duration: 500ms;
+transition-duration: 250ms;
 transition-timing-function: linear;
 
 }
