@@ -1,6 +1,8 @@
 :root
 
-
+h2{
+  margin-bottom: 72px;
+}
 h3,
 h4,
 h5,
@@ -266,7 +268,6 @@ border-radius: 4px;
 
 .works{
   margin: 0;
-  padding-bottom: 72px;
  font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -292,7 +293,6 @@ color: #2E2F42;
 
 .our-team {
   margin: 0;
-  padding-bottom: 72px;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -380,7 +380,6 @@ color: #2E2F42;
   margin: 0;
   display: block;
   text-align: center;
-  margin-bottom: 72px;
 }
 
 .customers-list{
@@ -546,11 +545,10 @@ color: #F4F4FD; }
 /* footer */
 
 .logo-footer{
-  margin: 0;
+  margin-bottom: 16px;
 }
 
-.logo{display: inline-block;
-margin-bottom: 16px;}
+.logo{display: inline-block;}
 
 .studio-footer {
   color: #F4F4FD;;
